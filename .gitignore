@@ -172,3 +172,4 @@ postgres_data/
 *.csv
 *.png
 credentials.json
+token.json
